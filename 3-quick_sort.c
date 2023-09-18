@@ -26,6 +26,7 @@ void quick_sort(int *array, size_t size)
 void quicksort(int *array, int min, int max, size_t size)
 {
 	int part;
+
 	if (min < max)
 	{
 
