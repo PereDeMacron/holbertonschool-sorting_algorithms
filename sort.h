@@ -40,6 +40,5 @@ void quicksort(int *array, int min, int max, size_t size);
 int partition(int *array, int min, int max, size_t size);
 void _swap(int *array, int i, int j, size_t size);
 /*-Adavanced Tasks-*/
-void sort_deck(deck_node_t **deck);
 
 #endif /* SORT_H */
